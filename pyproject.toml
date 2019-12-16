@@ -5,7 +5,7 @@ description = ""
 authors = ["alex <alex@pdp7.net>"]
 
 [tool.poetry.dependencies]
-python = ">=3.6"
+python = ">=3.7"
 ics = "^0.6"
 
 [tool.poetry.dev-dependencies]
