@@ -8,3 +8,11 @@ before_install:
 install:
   - poetry install -v
 script: poetry run python festivus.py
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: master
+  local_dir: generated
