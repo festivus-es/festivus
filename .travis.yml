@@ -1,3 +1,8 @@
 language: python
-install: pip install poetry && poetry install --no-dev
+before_install:
+  - curl -sSL https://raw.githubusercontent.com/sdispater/poetry/master/get-poetry.py > get-poetry.py
+  - python get-poetry.py -y
+  - source ~/.poetry/env
+install:
+  - poetry install -v
 script: poetry run python festivus.py
