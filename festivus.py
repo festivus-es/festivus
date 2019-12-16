@@ -56,7 +56,9 @@ class Calendar:
     def as_ical(self):
         ical = ics.Calendar()
         for day in self.days:
-            event = ics.Event(name=day.description, description=day.source, begin=day.date)
+            event = ics.Event(
+                name=day.description, description=day.source, begin=day.date
+            )
             event.make_all_day()
             ical.events.add(event)
         return ical
@@ -73,3 +75,7 @@ class Day:
 
     def __repr__(self):
         return repr(str(self))
+
+
+if __name__ == "__main__":
+    generate_calendars()
