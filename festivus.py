@@ -41,10 +41,7 @@ class Calendar:
 
     def parse(self, f):
         source = f.readline()
-        while True:
-            line = f.readline()
-            if not line:
-                break
+        for line in f:
             self.add(Day(line.strip(), source.strip()))
 
     def add(self, day):
