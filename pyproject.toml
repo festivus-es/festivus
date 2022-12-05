@@ -5,12 +5,12 @@ description = ""
 authors = ["alex <alex@pdp7.net>"]
 
 [tool.poetry.dependencies]
-python = ">=3.7"
-ics = "^0.6"
+python = "^3.9"
+ics = "^0.7"
 
 [tool.poetry.dev-dependencies]
 ipython = "*"
-ipdb = "*"
+pudb = "*"
 black = {version = "*", allow-prereleases = true}
 flake8 = "*"
 flake8-black = "*"
