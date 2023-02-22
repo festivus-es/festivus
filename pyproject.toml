@@ -9,8 +9,6 @@ python = "^3.9"
 ics = "^0.7"
 
 [tool.poetry.dev-dependencies]
-ipython = "*"
-pudb = "*"
 black = {version = "*", allow-prereleases = true}
 flake8 = "*"
 flake8-black = "*"
