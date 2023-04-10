@@ -31,7 +31,7 @@ def generate_calendars():
         path.mkdir(parents=True, exist_ok=True)
         file = path / "festivus.ics"
         with open(file, "w") as f:
-            f.write(str(calendar.as_ical()))
+            f.write(calendar.as_ical().serialize())
 
 
 class Calendar:
