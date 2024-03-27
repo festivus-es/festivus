@@ -17,6 +17,9 @@ jobs:
     - name: Check style
       run: |
         poetry run black . --check
+    - name: Check flake8
+      run: |
+        poetry run flake8
     - name: Generate
       run: |
         poetry run python festivus.py
