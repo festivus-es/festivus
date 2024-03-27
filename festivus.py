@@ -56,19 +56,10 @@ def generate_calendars():
                 f.write(f"<li>{last_year}<ul>")
             url = "/".join(list(calendar.location) + ["festivus.ics"])
             f.write(
-                f"""
-            <li><a href="{url}">{calendar.location[2]}</a> {calendar.location[1]}, {calendar.location[0]} {calendar.years()}</li>
-            """
+                f'<li><a href="{url}">{calendar.location[2]}</a> {calendar.location[1]}, {calendar.location[0]} {calendar.years()}</li>'
             )
             prev_last_year = last_year
-        f.write(
-            """
-        </ul>
-        </li>
-        </ul>
-        </body>
-        """
-        )
+        f.write("</ul></li></ul></body>")
 
 
 class Calendar:
