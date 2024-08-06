@@ -1,0 +1,436 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Tot Sants (Estatal)
+UID:dac0afc3-f2d2-4e74-bf1c-a736241d6f1a@dac0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240106
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Reis (Estatal)
+UID:249822c2-42fc-4119-a5de-5ac18d5236db@2498.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200624
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Joan (Autonòmica)
+UID:5b9ce9b5-abb3-4980-8325-4811bd1991fe@5b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230911
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Diada Nacional de Catalunya (Autonòmica)
+UID:29222876-6731-4d54-bfe5-3b715ae1dbcb@2922.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241012
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa Nacional d'Espanya (Estatal)
+UID:8d56f599-124c-4cca-84ba-b3dd4554d3bb@8d56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220624
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Joan (Autonòmica)
+UID:4f0e9295-be05-4b2e-a995-61c2aee10170@4f0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230925
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:(Local)
+UID:d2506a49-373e-429f-81a8-d8915ae35cfc@d250.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210106
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Reis (Estatal)
+UID:af90c061-b4e1-47f3-a4c9-d6f39e3df459@af90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221206
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dia de la Constitució (Estatal)
+UID:4bc9c065-8e9b-487d-bbd0-b543eb26837a@4bc9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:L'Assumpció (Estatal)
+UID:b04189cf-dacf-451d-b0e4-ae0e2b5c3efe@b041.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210402
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Divendres Sant (Estatal)
+UID:f7042fa4-9c64-4c90-930e-1f6221dbe0a5@f704.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210911
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Diada Nacional de Catalunya (Autonòmica)
+UID:bdffbc5f-3c55-40eb-89cf-d85519e48275@bdff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Joan (Autonòmica)
+UID:dbda1b90-de74-4d5a-8e71-19791a744f1f@dbda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210501
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa del Treball (Estatal)
+UID:89bee115-6699-4c53-9236-0eb1dbc1e362@89be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210405
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Florida (Autonòmica)
+UID:27e0583a-2b68-4b4a-915f-b9b765fae2bb@27e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:La Immaculada (Estatal)
+UID:5d590398-3548-449c-af24-f4b5249c34c0@5d59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221012
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa Nacional d'Espanya (Estatal)
+UID:5fc2eb0c-3cce-4c23-aee8-c64304044d99@5fc2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230407
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Divendres Sant (Estatal)
+UID:4275a0f7-aec4-447b-8e2e-42fb77d08e7e@4275.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Nadal (Estatal)
+UID:2b0ae601-ae95-4278-b515-863ec80e47f0@2b0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Divendres Sant (Estatal)
+UID:c662911c-7595-4d39-9243-c0918136fde8@c662.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220924
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Mare de Déu de la Mercè (Local)
+UID:61786c09-c267-4ae5-b8ba-c77a4fd3b335@6178.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Esteve (Autonòmica)
+UID:04dbc2c1-d201-4798-bf4b-9bb19ecef147@04db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:L'Assumpció (Estatal)
+UID:a461167b-b09c-489b-8307-6be4cfd14655@a461.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220815
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:L'Assumpció (Estatal)
+UID:57294672-5c73-4f3d-b4cb-58b7339f31d4@5729.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240911
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Diada Nacional de Catalunya (Autonòmica)
+UID:92811121-a5d3-4041-9735-99209d04ddb5@9281.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dia de la Constitució (Estatal)
+UID:f610a99b-70c0-403d-8610-71898935509f@f610.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210524
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Granada (Local)
+UID:b2c2db5f-351f-4cec-b7b9-e9ab6343f050@b2c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201225
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Nadal (Estatal)
+UID:7cac829a-3a2b-4891-a545-5578e119655c@7cac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230605
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:(Local)
+UID:72ce05c5-44fb-43d7-b2df-d372c1d80a26@72ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200106
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Reis (Estatal)
+UID:922f98d5-f938-48b9-8264-5feb07b7d33d@922f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210924
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Mare de Déu de la Mercè (Local)
+UID:1d827257-b0b3-413a-9431-5200599009ce@1d82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Tot Sants (Estatal)
+UID:17a8d587-8d35-4b72-a1f6-c7e3a3a381a9@17a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201226
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Esteve (Autonòmica)
+UID:ba2a968f-0117-4150-b5ea-96cc73a42eb9@ba2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240501
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa del Treball (Estatal)
+UID:a957cc19-90be-4942-b136-edebcf6c50c0@a957.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240924
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Mare de Déu de la Mercè (Local)
+UID:190a4d61-b26d-4696-b448-e6779b4018a2@190a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Florida (Autonòmica)
+UID:e5b7c460-d0d9-4aa5-98a2-41ba3130c228@e5b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Esteve (Autonòmica)
+UID:44e5aca3-91d3-410c-9dca-064b40773599@44e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231012
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa Nacional d'Espanya (Estatal)
+UID:e02243e9-4748-4212-8cda-f515fb257379@e022.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211208
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:La Immaculada (Estatal)
+UID:cba02217-c211-42ce-b799-05f3f000abb7@cba0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dia de la Constitució (Estatal)
+UID:d955b00e-8390-4cdc-820f-eaead83a9528@d955.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dia de tots Sants (Estatal)
+UID:2a02c2d0-6abd-4e73-b177-5a0b1415ba0a@2a02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220101
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Cap d'Any (Estatal)
+UID:38058ade-fbad-4460-9f63-5c0a70f9c3c6@3805.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220606
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Granada (Autonòmica)
+UID:27881e46-8028-4aa6-b8f0-1157a55f2e4a@2788.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210101
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Any Nou (Estatal)
+UID:e9de8c6f-4060-4598-a1c5-60ac0c1ce383@e9de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211225
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Nadal (Estatal)
+UID:6cb69a37-e087-4e98-bfb0-e499befdfaa1@6cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221208
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:La Immaculada (Estatal)
+UID:dd3f4f07-0a42-43ca-9532-d752dd63c8f6@dd3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210624
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Joan (Autonòmica)
+UID:a0623dd5-362a-4733-aae3-835f45446e27@a062.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Tot Sants (Estatal)
+UID:91902955-67b1-483b-90c9-db552a49b18a@9190.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200101
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Any Nou (Estatal)
+UID:73d4199f-6488-40c0-868f-3f22f85e7856@73d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230501
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa del Treball (Estatal)
+UID:9212c7f1-5e55-403e-b80e-f2273c5782f2@9212.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240624
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Joan (Autonòmica)
+UID:4154850f-be66-4f66-8b05-960c95f88365@4154.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211206
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dia de la Constitució (Estatal)
+UID:437b51a7-9af8-45ab-9895-ea88fc83b712@437b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201012
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa Nacional d'Espanya (Estatal)
+UID:9b220d5c-dcf7-49ca-aba4-334fa1a86a7c@9b22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200501
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa del Treball (Estatal)
+UID:38302864-ffcb-4633-8d7d-a6660e7fcbbe@3830.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211012
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Festa Nacional d'Espanya (Estatal)
+UID:5054eba8-7f92-4b15-8a7f-0dba004a4f89@5054.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220106
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Reis (Estatal)
+UID:6cb3305c-97be-41bd-8d3d-952bf1c3c97b@6cb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200410
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Divendres Sant (Estatal)
+UID:faa7eddf-6f45-4dc0-91fd-1478a1aaf0be@faa7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241226
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Sant Esteve (Autonòmica)
+UID:f2ad3a63-eb05-46ff-b7fb-966a22939a8c@f2ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Nadal (Estatal)
+UID:b4ee7971-478c-419f-8893-8a03efe9ab6b@b4ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201208
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:La Immaculada (Estatal)
+UID:52fd116d-a5c8-485c-93f2-c7023b16daa3@52fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220926
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:(Local)
+UID:6b02571c-a57e-4415-9a7d-5eca8488a6ec@6b02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Cap d'Any (Estatal)
+UID:0e5ef400-e684-4a10-b599-f16efdf7ec24@0e5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220418
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Florida (Autonòmica)
+UID:0b511d31-0f03-400c-9a5f-d55109b1e1cb@0b51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200815
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Mare de Déu d'Agost (Estatal)
+UID:72fb07df-c6c0-4778-be39-f064bc80b496@72fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200413
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Florida (Autonòmica)
+UID:35094d0c-2a5f-4650-979e-3c4e20f29571@3509.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230106
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Reis (Estatal)
+UID:c1871237-673b-4af8-8543-c69546982d93@c187.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240329
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Divendres Sant (Estatal)
+UID:e55fba5b-758d-4326-a16d-9fb98eb535df@e55f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200601
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Granada (Local)
+UID:e7a6d740-9028-463b-a550-dff92d0e3b6c@e7a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200911
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Diada Nacional de Catalunya (Autonòmica)
+UID:73b416c2-bff1-4327-8265-355c83dfbd16@73b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230410
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Florida (Autonòmica)
+UID:5bfe2065-61be-494c-9aa6-33ce673a80b4@5bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240520
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Dilluns de Pasqua Granada (Local)
+UID:53b342bc-6caf-4477-a671-91fc1ff7b1dc@53b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200924
+DESCRIPTION:# https://ajuntament.barcelona.cat/calendarifestius/ca/
+SUMMARY:Mare de Déu de la Mercè (Local)
+UID:d90242f0-0b59-4efb-9f90-fd3c8ea97a29@d902.org
+END:VEVENT
+END:VCALENDAR

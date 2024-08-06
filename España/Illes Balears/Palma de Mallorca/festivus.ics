@@ -1,0 +1,256 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230106
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Epifania del Senyor (Estatal)
+UID:55ee93d5-96cf-40c4-828f-a88aec94f8b7@55ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230406
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Dijous Sant (Autonòmica)
+UID:ab6949eb-2153-4e0d-9803-c33f23a55d51@ab69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231012
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Festa Nacional (Estatal)
+UID:f598ce58-5dcc-4c73-af83-37273a9efe13@f598.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Dia de la Constitució (Estatal)
+UID:a5dd6364-c612-4cf6-9962-b76817ccdebe@a5dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Dia de Nadal (Estatal)
+UID:9f326b48-22e1-4427-8c1c-7327ba7159af@9f32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Dia de Tot Sants (Estatal)
+UID:0f4c1a5c-d91b-47de-bba2-1b4db49d069e@0f4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220101
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Cap d'Any (Estatal)
+UID:b6b7be0a-dbfd-41e2-acfd-bfc17d8ca8ff@b6b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220815
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Assupció de la Verge (Estatal)
+UID:16d6c4f0-7a5b-4a9c-9b8c-bac9cfe5eda2@16d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Dia de Tot Sants (Estatal)
+UID:3648ebd9-168a-44a7-86b0-e46266592907@3648.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231012
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Festa Nacional (Estatal)
+UID:85ed1294-6962-47e1-aa07-b8fb0e46b94a@85ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221012
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Festa Nacional (Estatal)
+UID:5cae40c0-f46b-4156-b1ce-c734186a5f52@5cae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Sant Esteve\, segona Festa de Nadal (Local)
+UID:a3649a2d-02b5-459b-9fdf-203fe1fc203e@a364.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230328
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Dijous Sant (Autonòmica)
+UID:cc79b6b8-78cf-4c60-9732-70e94003d081@cc79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231208
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Immaculada Concepció (Estatal)
+UID:77977e69-2e03-4edb-92ea-2a565f05604d@7797.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Divendres Sant (Estatal)
+UID:1a50e34e-b0b2-4b55-978d-ea7470a1869a@1a50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230106
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Epifania del Senyor (Estatal)
+UID:6877939e-7c51-4a6f-b421-d630bbb1b9fc@6877.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:San Juan (Local)
+UID:7f20474f-4d4e-461c-a7d5-cd21a577b42f@7f20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230401
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Dilluns de Pasqua (Autonòmica)
+UID:3f69bcf5-8102-45f6-bfed-1e6f44b3b10d@3f69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Assupció de la Verge (Estatal)
+UID:731f3b23-0bd5-4440-bae2-796a602bb81f@731f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Dilluns següent al Dia de Nadal (Autonòmica)
+UID:e021caf7-9a3f-4383-b6bf-cb75dce8220a@e021.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231101
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Dia de Tot Sants (Estatal)
+UID:daba6090-38a7-4aed-bdd1-a63fd62fb968@daba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230501
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Festa del Treball (Estatal)
+UID:fbcb97d6-6db7-4816-a75b-c65a74e6f650@fbcb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Año Nuevo (Estatal)
+UID:183137b8-ab30-4514-a216-caf9c6f138a9@1831.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220301
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Dia de les Illes Balears (Autonòmica)
+UID:029e5af1-e66b-4fe2-98fc-71e4ad27f2a1@029e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230407
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Divendres Sant (Estatal)
+UID:ecb7ca38-1c2e-4d92-bfd8-e4f9972a2a04@ecb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231225
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Dia de Nadal (Estatal)
+UID:372ccb1a-a5b5-41ba-987a-cc2209e76bec@372c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231206
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Dia de la Constitució (Estatal)
+UID:74deef23-dda8-49f5-b1af-2eb18f442ecd@74de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230301
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Dia de les Illes Balears (Autonòmica)
+UID:f2605dc5-f5a1-473a-a317-324312984a85@f260.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230301
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Dia de les Illes Balears (Autonòmica)
+UID:46431e17-936e-4e6d-85ff-2eb296bae81f@4643.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220624
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Sant Joan (Local)
+UID:e65f343c-8a30-4941-b97d-a7175d7e39c5@e65f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221208
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Immaculada Concepció (Estatal)
+UID:d3a85390-3b8c-4cc3-a707-68906e8af4fb@d3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230120
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:San Sebastià (Local)
+UID:2455f619-e761-40be-bf7d-13dd0265f71f@2455.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221206
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Dia de la Constitució (Estatal)
+UID:46a795ab-aa5e-47fe-b909-426b8928b198@46a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230815
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Assupció de la Verge (Estatal)
+UID:09170e4f-c8c4-4f82-9ec5-972c40fa9397@0917.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230410
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Dilluns de Pasqua (Autonòmica)
+UID:ed286fd4-5b9c-40ed-89ad-29b6d189bf93@ed28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230501
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2023/
+SUMMARY:Festa del Treball (Estatal)
+UID:9d8c5163-c6a4-4db0-922b-6557ac23d89f@9d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20231226
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Sant Esteve\, segona Festa de Nadal (Local)
+UID:b9ca1958-cb07-45a8-af36-f467d4a1c3a7@b9ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220120
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:San Sebastià (Local)
+UID:044885bb-48c7-433a-b3a9-9208cc08d625@0448.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220414
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Dijous Sant (Autonòmica)
+UID:bdaed008-5379-46b6-ba57-ff3c62433b2a@bdae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230329
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/es/aao_2024/
+SUMMARY:Divendres Sant (Estatal)
+UID:a13b0190-fa62-4c0f-926d-99bb58bf7cf7@a13b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220106
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Epifania del Senyor (Estatal)
+UID:7b4f440f-f56f-4719-9253-29d49ecaf020@7b4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220418
+DESCRIPTION:# https://www.caib.es/sites/calendarilaboral/ca/aao_2022/
+SUMMARY:Dilluns de Pasqua (Autonòmica)
+UID:17bf83c2-c07e-4d15-bfe9-918f4c947172@17bf.org
+END:VEVENT
+END:VCALENDAR
