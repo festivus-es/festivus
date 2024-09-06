@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220829
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Santisimo Cristo de la Fe (local)
+UID:46d0b4b9-4c55-41ab-b6dc-155a4b499d63@46d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211009
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Dia de la Comunitat Valenciana (Autonómica)
+UID:e8e44ba1-d648-4fbb-9b6b-367e63624fd9@e8e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211208
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Inmaculada Concepción (Estatal)
+UID:7a028639-ce19-4b7d-97e8-96ad28db5762@7a02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220106
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Epifania del Señor (Estatal)
+UID:50a86024-9795-423b-8183-ebd2332287fd@50a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220414
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Jueves Santo (Estatal)
+UID:a140d62e-9a86-47d9-a47c-31f5c9123f77@a140.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221012
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Fiesta Nacional de España (Estatal)
+UID:1db2ac58-2c32-4b92-8f8b-855aff9f43be@1db2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221206
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Día de la Constitución (Estatal)
+UID:1902408d-117d-4cba-b37c-4ea2940c908c@1902.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210501
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Fiesta del Trabajo (Estatal)
+UID:7a8578b1-92f9-4b64-a710-c8c2886fd874@7a85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Viernes Santo (Estatal)
+UID:8697ca71-079d-4c53-a750-f9a0d7a70312@8697.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210830
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Fiesta local (Local)
+UID:967a7ee3-95fc-4df6-b636-da883c5dfd3d@967a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Día de Todos los Santos (Estatal)
+UID:eb575e4f-55e9-44ca-b85b-8ec80ab68130@eb57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211206
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Día de la Constitución (Estatal)
+UID:974eb4bf-e7aa-4d3c-97e7-8113c64e062a@974e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210401
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Jueves Santo (Autonómica)
+UID:21874c9d-5cde-4f89-a5f2-d12da4d54017@2187.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210412
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:San Vicente Ferrer (Local)
+UID:06340b54-0909-4997-a7af-7400d1ee5805@0634.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211225
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Natividad del Señor (Estatal)
+UID:9d09c931-bcb5-4223-b7d1-3ed127b66594@9d09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220815
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Asunción de la Virgen
+UID:489e185e-ba48-4083-860d-065d56702c1a@489e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220319
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:San José (Autonómica)
+UID:df678666-affa-4cf8-bde4-cd424c6485be@df67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210405
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Lunes de Pascua (Estatal)
+UID:eacbee96-d7c9-47f7-aabe-0f580fd66845@eacb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210101
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Año Nuevo (Estatal)
+UID:1142f341-8439-441a-8724-20fa052644d1@1142.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220418
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Lunes de Pascua (Estatal)
+UID:71e51548-f341-477e-97e7-01baba381412@71e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211012
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Fiesta Nacional de España (Estatal)
+UID:a768ff5f-f720-461f-9502-a5039a6df5b1@a768.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Día de Todos los Santos (Estatal)
+UID:3cb4957f-791e-4f5d-b10e-e2a51cac8f01@3cb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210402
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Viernes Santo (Estatal)
+UID:519cd58b-6911-4dda-b696-79a604b8239d@519c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220101
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Año Nuevo (Estatal)
+UID:a00f7bd5-8938-4dfe-bf5c-614c18272c0b@a00f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210319
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:San José (Autonómica)
+UID:2f40d9a7-b659-4c2c-8a68-14a4e0826c8d@2f40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221208
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Inmaculada Concepción (Estatal)
+UID:f56333a7-bfb6-4d7f-ad10-69d79b47a928@f563.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210106
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:Epifania del Señor (Estatal)
+UID:5f303857-7712-43ea-93f1-ea5bd187c7ec@5f30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220624
+DESCRIPTION:# https://sede.paterna.es/opensiac/action/calendariolaboral?method=enter
+SUMMARY:San Juan
+UID:cf201652-9fad-411b-bf8a-ded6ecd7e0c0@cf20.org
+END:VEVENT
+END:VCALENDAR
