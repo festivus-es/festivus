@@ -14,8 +14,8 @@ WEEKDAYS = (
 KINDS = {
     "(Estatal)": "Spain",
     "(Local)": "City",
-    "(Autonómica)": "Autonomous region",
-    "(Autonòmica)": "Autonomous region",
+    "(Autonómica)": "Autonomous community",
+    "(Autonòmica)": "Autonomous community",
 }
 
 print(
