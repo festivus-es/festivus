@@ -59,7 +59,7 @@ def generate_calendars():
                 f'<li><a href="{url}">{calendar.location[2]}</a> {calendar.location[1]}, {calendar.location[0]} {calendar.years()}</li>'
             )
             prev_last_year = last_year
-        f.write("</ul></li></ul></body>")
+        f.write('</ul></li></ul><p><a href="stats.csv">Statistics</a></body>')
 
 
 class Calendar:
