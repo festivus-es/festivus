@@ -20,6 +20,12 @@ jobs:
     - name: Check flake8
       run: |
         poetry run flake8
+    - name: Create generated directory
+      run: |
+        mkdir -p generated
+    - name: Generate stats
+      run: |
+        python3 stats.py >generated/stats.csv
     - name: Generate
       run: |
         poetry run python festivus.py
