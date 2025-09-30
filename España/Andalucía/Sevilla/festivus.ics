@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220815
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Ascensión de la Virgen (Estatal)
+UID:a294e30d-3d56-4e8e-b4ef-ceb396cb35b5@a294.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Día de la Constitución española (Estatal)
+UID:6b4df971-157d-493e-b33e-d31c3459f30a@6b4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221012
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Fiesta Nacional de España (Estatal)
+UID:d8c48fba-bd36-4c42-ade3-3aff30ac447d@d8c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221206
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Día de la Constitución española (Estatal)
+UID:1c2f1c9e-4549-4c62-83e5-e4a5e1fd999a@1c2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221226
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Natividad del Señor\, coincide en Domingo y se traslada al lunes (Autonómica)
+UID:779cf2ad-41eb-48ef-a6e6-be5252ada7d6@779c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220414
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Jueves Santo (Autonómica)
+UID:5c561f3d-e6ad-4ef5-ad31-d35959088a32@5c56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240501
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Fiesta del Trabajo (Autonómica)
+UID:1ec3ea80-db27-4bf8-9a00-cd602ce8cd6c@1ec3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241012
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Fiesta Nacional de España (Estatal)
+UID:4b461c81-f30c-4f14-a38e-199b88694afd@4b46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240417
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Feria (Local)
+UID:456dc92e-48a2-4bf7-ae28-f2b5e8e971a3@456d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220228
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Día de Andalucía (Autonómica)
+UID:7eaed572-7585-4a24-9599-1f2655998013@7eae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241209
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:La Inmaculada Concepción (Estatal)
+UID:b3e101c8-2a44-4a5e-b4ab-880ea6757475@b3e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221208
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:La Inmaculada Concepción (Estatal)
+UID:6e9d7594-bed6-4a94-a130-da08e061bafa@6e9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Viernes Santo (Estatal)
+UID:2b04030d-3427-40aa-8922-e2adf8e0f7c7@2b04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Natividad del Señor\, coincide en Domingo y se traslada al lunes (Autonómica)
+UID:7950f7f3-bb36-4779-a852-8f57c7c89832@7950.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Ascensión de la Virgen (Estatal)
+UID:ed856805-410d-4b00-abe9-00a8e429eb80@ed85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240329
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Viernes Santo (Estatal)
+UID:058d6204-e2aa-4d0d-9d4e-a6c7f21bc538@058d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240106
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Epifanía del Señor (Estatal)
+UID:f28402b0-87e2-4916-9c46-75ce66831dac@f284.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240228
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Día de Andalucía (Autonómica)
+UID:c4c9d312-5fc1-4bff-9fe3-7f970bd9efcd@c4c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220502
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Fiesta del Trabajo\, coincide en Domingo y se traslada al lunes (Autonómica)
+UID:fd67cb3e-49a8-4e31-a14d-7313f4e9c8c2@fd67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Día de Todos los Santos (Estatal)
+UID:55bd767f-7be7-4fd8-b8f3-9d9ea03df969@55bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Día de Todos los Santos (Estatal)
+UID:8f18cc5e-a1a0-4674-afc6-1b14bd0ab476@8f18.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220504
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Feria (Local)
+UID:2a2aa7b2-f7a1-493f-a6e8-e3604f56f726@2a2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220616
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Corpus Christi (Local)
+UID:3326b1f8-d0a1-4244-b231-ae1d36fa4dbb@3326.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Año nuevo (Estatal)
+UID:56f29cdb-9994-4cb0-ad1c-02b1382214cf@56f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240530
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Corpus Christi (Local)
+UID:9f752e71-3e44-4b4f-a685-3258ba6767ac@9f75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220101
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Año nuevo (Estatal)
+UID:3f0ad971-ed21-4bed-a1c8-c1317974710b@3f0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220106
+DESCRIPTION:# https://www.sevilla.org/fiestas-de-la-ciudad/festivos-locales
+SUMMARY:Epifanía del Señor (Estatal)
+UID:072a7628-d150-4714-ba25-24593e56ba17@072a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240328
+DESCRIPTION:# https://www.juntadeandalucia.es/servicios/tramites/presentacion-documentos/calendario-dias-inhabiles/calendario.html
+SUMMARY:Jueves Santo (Autonómica)
+UID:819fe746-00bc-4ce8-9d6a-7d3092af1078@819f.org
+END:VEVENT
+END:VCALENDAR
