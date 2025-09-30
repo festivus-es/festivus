@@ -42,7 +42,7 @@ def generate_calendars():
         <meta name="viewport" content="width=device-width, initial-scale=1">
         </head>
         <body>
-        <p>Contribute data at <a href="https://github.com/festivus-es/festivus">github.com/festivus-es/festivus</a>.</p>
+        <p>Visit <a href="https://github.com/festivus-es/festivus">github.com/festivus-es/festivus</a> to contribute data and learn more about this project.</p>
         <ul>
         """
         )
