@@ -1,0 +1,342 @@
+country	autonomous_community	city	year	month	day	weekday number	weekday name	date	kind	name
+España	Comunitat Valenciana	Paterna	2021	1	1	4	friday	2021-01-01	Spain	Año Nuevo
+España	Comunitat Valenciana	Paterna	2021	1	6	2	wednesday	2021-01-06	Spain	Epifania del Señor
+España	Comunitat Valenciana	Paterna	2021	3	19	4	friday	2021-03-19	Autonomous community	San José
+España	Comunitat Valenciana	Paterna	2021	4	1	3	thursday	2021-04-01	Autonomous community	Jueves Santo
+España	Comunitat Valenciana	Paterna	2021	4	2	4	friday	2021-04-02	Spain	Viernes Santo
+España	Comunitat Valenciana	Paterna	2021	4	5	0	monday	2021-04-05	Spain	Lunes de Pascua
+España	Comunitat Valenciana	Paterna	2021	4	12	0	monday	2021-04-12	City	San Vicente Ferrer
+España	Comunitat Valenciana	Paterna	2021	5	1	5	saturday	2021-05-01	Spain	Fiesta del Trabajo
+España	Comunitat Valenciana	Paterna	2021	8	30	0	monday	2021-08-30	City	Fiesta local
+España	Comunitat Valenciana	Paterna	2021	10	9	5	saturday	2021-10-09	Autonomous community	Dia de la Comunitat Valenciana
+España	Comunitat Valenciana	Paterna	2021	10	12	1	tuesday	2021-10-12	Spain	Fiesta Nacional de España
+España	Comunitat Valenciana	Paterna	2021	11	1	0	monday	2021-11-01	Spain	Día de Todos los Santos
+España	Comunitat Valenciana	Paterna	2021	12	6	0	monday	2021-12-06	Spain	Día de la Constitución
+España	Comunitat Valenciana	Paterna	2021	12	8	2	wednesday	2021-12-08	Spain	Inmaculada Concepción
+España	Comunitat Valenciana	Paterna	2021	12	25	5	saturday	2021-12-25	Spain	Natividad del Señor
+España	Comunitat Valenciana	Betera	2024	1	1	0	monday	2024-01-01	Spain	Año Nuevo
+España	Comunitat Valenciana	Betera	2024	1	6	5	saturday	2024-01-06	Spain	Epifania del Señor
+España	Comunitat Valenciana	Betera	2024	3	19	1	tuesday	2024-03-19	Autonomous community	San José
+España	Comunitat Valenciana	Betera	2024	3	29	4	friday	2024-03-29	Spain	Viernes Santo
+España	Comunitat Valenciana	Betera	2024	4	1	0	monday	2024-04-01	Autonomous community	Lunes de Pascua
+España	Comunitat Valenciana	Betera	2024	4	8	0	monday	2024-04-08	City	San Vicente Ferrer
+España	Comunitat Valenciana	Betera	2024	5	1	2	wednesday	2024-05-01	Spain	Fiesta del Trabajo
+España	Comunitat Valenciana	Betera	2024	6	24	0	monday	2024-06-24	Autonomous community	San Juan
+España	Comunitat Valenciana	Betera	2024	8	15	3	thursday	2024-08-15	Spain	Asunción de la Virgen
+España	Comunitat Valenciana	Betera	2024	8	16	4	friday	2024-08-16	City	San Roque
+España	Comunitat Valenciana	Betera	2024	10	9	2	wednesday	2024-10-09	Autonomous community	Día de la Comunitat Valenciana
+España	Comunitat Valenciana	Betera	2024	10	12	5	saturday	2024-10-12	Spain	Fiesta Nacional de España
+España	Comunitat Valenciana	Betera	2024	11	1	4	friday	2024-11-01	Spain	Día de Todos los Santos
+España	Comunitat Valenciana	Betera	2024	12	6	4	friday	2024-12-06	Spain	Día de la Constitución
+España	Comunitat Valenciana	Betera	2024	12	25	2	wednesday	2024-12-25	Spain	Navidad del Señor
+España	Comunitat Valenciana	Burjassot	2021	1	1	4	friday	2021-01-01	Spain	Año Nuevo
+España	Comunitat Valenciana	Burjassot	2021	1	6	2	wednesday	2021-01-06	Spain	Epifania del Señor
+España	Comunitat Valenciana	Burjassot	2021	3	19	4	friday	2021-03-19	Autonomous community	San José
+España	Comunitat Valenciana	Burjassot	2021	4	2	4	friday	2021-04-02	Spain	Viernes Santo
+España	Comunitat Valenciana	Burjassot	2021	4	5	0	monday	2021-04-05	Spain	Lunes de Pascua
+España	Comunitat Valenciana	Burjassot	2021	5	1	5	saturday	2021-05-01	Spain	Fiesta del Trabajo
+España	Comunitat Valenciana	Burjassot	2021	8	16	0	monday	2021-08-16	City	San Roque
+España	Comunitat Valenciana	Burjassot	2021	9	30	3	thursday	2021-09-30	City	Virgen de la Cabeza
+España	Comunitat Valenciana	Burjassot	2021	10	9	5	saturday	2021-10-09	Autonomous community	Dia de la Comunitat Valenciana
+España	Comunitat Valenciana	Burjassot	2021	10	12	1	tuesday	2021-10-12	Spain	Fiesta Nacional de España
+España	Comunitat Valenciana	Burjassot	2021	11	1	0	monday	2021-11-01	Spain	Día de Todos los Santos
+España	Comunitat Valenciana	Burjassot	2021	12	6	0	monday	2021-12-06	Spain	Día de la Constitución
+España	Comunitat Valenciana	Burjassot	2021	12	8	2	wednesday	2021-12-08	Spain	Inmaculada Concepción
+España	Comunitat Valenciana	Burjassot	2021	12	25	5	saturday	2021-12-25	Spain	Natividad del Señor
+España	Illes Balears	Sóller	2022	1	1	5	saturday	2022-01-01	Spain	Cap d'Any
+España	Illes Balears	Sóller	2022	1	6	3	thursday	2022-01-06	Spain	Epifania del Senyor
+España	Illes Balears	Sóller	2022	3	1	1	tuesday	2022-03-01	Autonomous community	Dia de les Illes Balears
+España	Illes Balears	Sóller	2022	4	14	3	thursday	2022-04-14	Autonomous community	Dijous Sant
+España	Illes Balears	Sóller	2022	4	15	4	friday	2022-04-15	Spain	Divendres Sant
+España	Illes Balears	Sóller	2022	4	18	0	monday	2022-04-18	Autonomous community	Dilluns de Pasqua
+España	Illes Balears	Sóller	2022	5	9	0	monday	2022-05-09	City	Firó
+España	Illes Balears	Sóller	2022	8	15	0	monday	2022-08-15	Spain	Assupció de la Verge
+España	Illes Balears	Sóller	2022	8	24	2	wednesday	2022-08-24	City	San Bartomeu
+España	Illes Balears	Sóller	2022	10	12	2	wednesday	2022-10-12	Spain	Festa Nacional
+España	Illes Balears	Sóller	2022	11	1	1	tuesday	2022-11-01	Spain	Dia de Tot Sants
+España	Illes Balears	Sóller	2022	12	6	1	tuesday	2022-12-06	Spain	Dia de la Constitució
+España	Illes Balears	Sóller	2022	12	8	3	thursday	2022-12-08	Spain	Immaculada Concepció
+España	Illes Balears	Sóller	2022	12	26	0	monday	2022-12-26	Autonomous community	Dilluns següent al Dia de Nadal
+España	Illes Balears	Palma de Mallorca	2023	1	6	4	friday	2023-01-06	Spain	Epifania del Senyor
+España	Illes Balears	Palma de Mallorca	2023	1	20	4	friday	2023-01-20	City	San Sebastià
+España	Illes Balears	Palma de Mallorca	2023	3	1	2	wednesday	2023-03-01	Autonomous community	Dia de les Illes Balears
+España	Illes Balears	Palma de Mallorca	2023	4	6	3	thursday	2023-04-06	Autonomous community	Dijous Sant
+España	Illes Balears	Palma de Mallorca	2023	4	7	4	friday	2023-04-07	Spain	Divendres Sant
+España	Illes Balears	Palma de Mallorca	2023	4	10	0	monday	2023-04-10	Autonomous community	Dilluns de Pasqua
+España	Illes Balears	Palma de Mallorca	2023	5	1	0	monday	2023-05-01	Spain	Festa del Treball
+España	Illes Balears	Palma de Mallorca	2023	8	15	1	tuesday	2023-08-15	Spain	Assupció de la Verge
+España	Illes Balears	Palma de Mallorca	2023	10	12	3	thursday	2023-10-12	Spain	Festa Nacional
+España	Illes Balears	Palma de Mallorca	2023	11	1	2	wednesday	2023-11-01	Spain	Dia de Tot Sants
+España	Illes Balears	Palma de Mallorca	2023	12	6	2	wednesday	2023-12-06	Spain	Dia de la Constitució
+España	Illes Balears	Palma de Mallorca	2023	12	8	4	friday	2023-12-08	Spain	Immaculada Concepció
+España	Illes Balears	Palma de Mallorca	2023	12	25	0	monday	2023-12-25	Spain	Dia de Nadal
+España	Illes Balears	Palma de Mallorca	2023	12	26	1	tuesday	2023-12-26	City	Sant Esteve, segona Festa de Nadal
+España	Illes Balears	Palma de Mallorca	2025	1	1	2	wednesday	2025-01-01	Spain	Año Nuevo
+España	Illes Balears	Palma de Mallorca	2025	1	6	0	monday	2025-01-06	Spain	Epifania del Señor
+España	Illes Balears	Palma de Mallorca	2025	1	20	0	monday	2025-01-20	City	San Sebastian
+España	Illes Balears	Palma de Mallorca	2025	3	1	5	saturday	2025-03-01	Autonomous community	Dia de les Illes Balears
+España	Illes Balears	Palma de Mallorca	2025	4	17	3	thursday	2025-04-17	Autonomous community	Dijous Sant
+España	Illes Balears	Palma de Mallorca	2025	4	18	4	friday	2025-04-18	Spain	Divendres Sant
+España	Illes Balears	Palma de Mallorca	2025	4	21	0	monday	2025-04-21	City	Lunes de Pascua
+España	Illes Balears	Palma de Mallorca	2025	5	1	3	thursday	2025-05-01	Spain	Día del Trabajo
+España	Illes Balears	Palma de Mallorca	2025	8	15	4	friday	2025-08-15	Spain	Assupció de la Verge
+España	Illes Balears	Palma de Mallorca	2025	11	1	5	saturday	2025-11-01	Spain	Dia de Todos los Santos
+España	Illes Balears	Palma de Mallorca	2025	12	6	5	saturday	2025-12-06	Spain	Dia de la Constitución
+España	Illes Balears	Palma de Mallorca	2025	12	8	0	monday	2025-12-08	Spain	Dia de la Inmaculada Concepción
+España	Illes Balears	Palma de Mallorca	2025	12	25	3	thursday	2025-12-25	Spain	Dia de Navidad
+España	Illes Balears	Palma de Mallorca	2025	12	26	4	friday	2025-12-26	Autonomous community	Sant Esteve, segona Festa de Nadal
+España	Illes Balears	Palma de Mallorca	2022	1	1	5	saturday	2022-01-01	Spain	Cap d'Any
+España	Illes Balears	Palma de Mallorca	2022	1	6	3	thursday	2022-01-06	Spain	Epifania del Senyor
+España	Illes Balears	Palma de Mallorca	2022	1	20	3	thursday	2022-01-20	City	San Sebastià
+España	Illes Balears	Palma de Mallorca	2022	3	1	1	tuesday	2022-03-01	Autonomous community	Dia de les Illes Balears
+España	Illes Balears	Palma de Mallorca	2022	4	14	3	thursday	2022-04-14	Autonomous community	Dijous Sant
+España	Illes Balears	Palma de Mallorca	2022	4	15	4	friday	2022-04-15	Spain	Divendres Sant
+España	Illes Balears	Palma de Mallorca	2022	4	18	0	monday	2022-04-18	Autonomous community	Dilluns de Pasqua
+España	Illes Balears	Palma de Mallorca	2022	6	24	4	friday	2022-06-24	City	Sant Joan
+España	Illes Balears	Palma de Mallorca	2022	8	15	0	monday	2022-08-15	Spain	Assupció de la Verge
+España	Illes Balears	Palma de Mallorca	2022	10	12	2	wednesday	2022-10-12	Spain	Festa Nacional
+España	Illes Balears	Palma de Mallorca	2022	11	1	1	tuesday	2022-11-01	Spain	Dia de Tot Sants
+España	Illes Balears	Palma de Mallorca	2022	12	6	1	tuesday	2022-12-06	Spain	Dia de la Constitució
+España	Illes Balears	Palma de Mallorca	2022	12	8	3	thursday	2022-12-08	Spain	Immaculada Concepció
+España	Illes Balears	Palma de Mallorca	2022	12	26	0	monday	2022-12-26	Autonomous community	Dilluns següent al Dia de Nadal
+España	Illes Balears	Palma de Mallorca	2024	1	1	0	monday	2024-01-01	Spain	Año Nuevo
+España	Illes Balears	Palma de Mallorca	2024	1	6	5	saturday	2024-01-06	Spain	Epifania del Senyor
+España	Illes Balears	Palma de Mallorca	2024	3	1	4	friday	2024-03-01	Autonomous community	Dia de les Illes Balears
+España	Illes Balears	Palma de Mallorca	2024	3	28	3	thursday	2024-03-28	Autonomous community	Dijous Sant
+España	Illes Balears	Palma de Mallorca	2024	3	29	4	friday	2024-03-29	Spain	Divendres Sant
+España	Illes Balears	Palma de Mallorca	2024	4	1	0	monday	2024-04-01	Autonomous community	Dilluns de Pasqua
+España	Illes Balears	Palma de Mallorca	2024	5	1	2	wednesday	2024-05-01	Spain	Festa del Treball
+España	Illes Balears	Palma de Mallorca	2024	6	24	0	monday	2024-06-24	City	San Juan
+España	Illes Balears	Palma de Mallorca	2024	8	15	3	thursday	2024-08-15	Spain	Assupció de la Verge
+España	Illes Balears	Palma de Mallorca	2024	10	12	5	saturday	2024-10-12	Spain	Festa Nacional
+España	Illes Balears	Palma de Mallorca	2024	11	1	4	friday	2024-11-01	Spain	Dia de Tot Sants
+España	Illes Balears	Palma de Mallorca	2024	12	6	4	friday	2024-12-06	Spain	Dia de la Constitució
+España	Illes Balears	Palma de Mallorca	2024	12	25	2	wednesday	2024-12-25	Spain	Dia de Nadal
+España	Illes Balears	Palma de Mallorca	2024	12	26	3	thursday	2024-12-26	City	Sant Esteve, segona Festa de Nadal
+España	Cataluña	Barcelona	2023	1	6	4	friday	2023-01-06	Spain	Reis
+España	Cataluña	Barcelona	2023	4	7	4	friday	2023-04-07	Spain	Divendres Sant
+España	Cataluña	Barcelona	2023	4	10	0	monday	2023-04-10	Autonomous community	Dilluns de Pasqua Florida
+España	Cataluña	Barcelona	2023	5	1	0	monday	2023-05-01	Spain	Festa del Treball
+España	Cataluña	Barcelona	2023	6	5	0	monday	2023-06-05	City	?
+España	Cataluña	Barcelona	2023	6	24	5	saturday	2023-06-24	Autonomous community	Sant Joan
+España	Cataluña	Barcelona	2023	8	15	1	tuesday	2023-08-15	Spain	L'Assumpció
+España	Cataluña	Barcelona	2023	9	11	0	monday	2023-09-11	Autonomous community	Diada Nacional de Catalunya
+España	Cataluña	Barcelona	2023	9	25	0	monday	2023-09-25	City	?
+España	Cataluña	Barcelona	2023	10	12	3	thursday	2023-10-12	Spain	Festa Nacional d'Espanya
+España	Cataluña	Barcelona	2023	11	1	2	wednesday	2023-11-01	Spain	Tot Sants
+España	Cataluña	Barcelona	2023	12	6	2	wednesday	2023-12-06	Spain	Dia de la Constitució
+España	Cataluña	Barcelona	2023	12	8	4	friday	2023-12-08	Spain	La Immaculada
+España	Cataluña	Barcelona	2023	12	25	0	monday	2023-12-25	Spain	Nadal
+España	Cataluña	Barcelona	2023	12	26	1	tuesday	2023-12-26	Autonomous community	Sant Esteve
+España	Cataluña	Barcelona	2025	1	1	2	wednesday	2025-01-01	Spain	Cap d'Any
+España	Cataluña	Barcelona	2025	1	6	0	monday	2025-01-06	Spain	Reis
+España	Cataluña	Barcelona	2025	4	18	4	friday	2025-04-18	Spain	Divendres Sant
+España	Cataluña	Barcelona	2025	4	21	0	monday	2025-04-21	Autonomous community	Dilluns de Pasqua Florida
+España	Cataluña	Barcelona	2025	5	1	3	thursday	2025-05-01	Spain	Festa del Treball
+España	Cataluña	Barcelona	2025	6	9	0	monday	2025-06-09	City	Dilluns de Pasqua Granada
+España	Cataluña	Barcelona	2025	6	24	1	tuesday	2025-06-24	Autonomous community	Sant Joan
+España	Cataluña	Barcelona	2025	8	15	4	friday	2025-08-15	Spain	L'Assumpció
+España	Cataluña	Barcelona	2025	9	11	3	thursday	2025-09-11	Autonomous community	Diada Nacional de Catalunya
+España	Cataluña	Barcelona	2025	9	24	2	wednesday	2025-09-24	City	Mare de Déu de la Mercè
+España	Cataluña	Barcelona	2025	11	1	5	saturday	2025-11-01	Spain	Tot Sants
+España	Cataluña	Barcelona	2025	12	6	5	saturday	2025-12-06	Spain	Dia de la Constitució
+España	Cataluña	Barcelona	2025	12	8	0	monday	2025-12-08	Spain	La Immaculada
+España	Cataluña	Barcelona	2025	12	25	3	thursday	2025-12-25	Spain	Nadal
+España	Cataluña	Barcelona	2025	12	26	4	friday	2025-12-26	Autonomous community	Sant Esteve
+España	Cataluña	Barcelona	2020	1	1	2	wednesday	2020-01-01	Spain	Any Nou
+España	Cataluña	Barcelona	2020	1	6	0	monday	2020-01-06	Spain	Reis
+España	Cataluña	Barcelona	2020	4	10	4	friday	2020-04-10	Spain	Divendres Sant
+España	Cataluña	Barcelona	2020	4	13	0	monday	2020-04-13	Autonomous community	Dilluns de Pasqua Florida
+España	Cataluña	Barcelona	2020	5	1	4	friday	2020-05-01	Spain	Festa del Treball
+España	Cataluña	Barcelona	2020	6	1	0	monday	2020-06-01	City	Dilluns de Pasqua Granada
+España	Cataluña	Barcelona	2020	6	24	2	wednesday	2020-06-24	Autonomous community	Sant Joan
+España	Cataluña	Barcelona	2020	8	15	5	saturday	2020-08-15	Spain	Mare de Déu d'Agost
+España	Cataluña	Barcelona	2020	9	11	4	friday	2020-09-11	Autonomous community	Diada Nacional de Catalunya
+España	Cataluña	Barcelona	2020	9	24	3	thursday	2020-09-24	City	Mare de Déu de la Mercè
+España	Cataluña	Barcelona	2020	10	12	0	monday	2020-10-12	Spain	Festa Nacional d'Espanya
+España	Cataluña	Barcelona	2020	12	8	1	tuesday	2020-12-08	Spain	La Immaculada
+España	Cataluña	Barcelona	2020	12	25	4	friday	2020-12-25	Spain	Nadal
+España	Cataluña	Barcelona	2020	12	26	5	saturday	2020-12-26	Autonomous community	Sant Esteve
+España	Cataluña	Barcelona	2026	1	1	3	thursday	2026-01-01	Spain	Cap d'Any
+España	Cataluña	Barcelona	2026	1	6	1	tuesday	2026-01-06	Spain	Reis
+España	Cataluña	Barcelona	2026	4	3	4	friday	2026-04-03	Spain	Divendres Sant
+España	Cataluña	Barcelona	2026	4	6	0	monday	2026-04-06	Autonomous community	Dilluns de Pasqua Florida
+España	Cataluña	Barcelona	2026	5	1	4	friday	2026-05-01	Spain	Festa del Treball
+España	Cataluña	Barcelona	2026	5	25	0	monday	2026-05-25	City	Dilluns de Pasqua Granada
+España	Cataluña	Barcelona	2026	6	24	2	wednesday	2026-06-24	Autonomous community	Sant Joan
+España	Cataluña	Barcelona	2026	8	15	5	saturday	2026-08-15	Spain	L'Assumpció
+España	Cataluña	Barcelona	2026	9	11	4	friday	2026-09-11	Autonomous community	Diada Nacional de Catalunya
+España	Cataluña	Barcelona	2026	9	24	3	thursday	2026-09-24	City	Mare de Déu de la Mercè
+España	Cataluña	Barcelona	2026	10	12	0	monday	2026-10-12	Spain	Dia Nacional d'Espanya
+España	Cataluña	Barcelona	2026	12	8	1	tuesday	2026-12-08	Spain	La Immaculada
+España	Cataluña	Barcelona	2026	12	25	4	friday	2026-12-25	Spain	Nadal
+España	Cataluña	Barcelona	2026	12	26	5	saturday	2026-12-26	Autonomous community	Sant Esteve
+España	Cataluña	Barcelona	2022	1	1	5	saturday	2022-01-01	Spain	Cap d'Any
+España	Cataluña	Barcelona	2022	1	6	3	thursday	2022-01-06	Spain	Reis
+España	Cataluña	Barcelona	2022	4	15	4	friday	2022-04-15	Spain	Divendres Sant
+España	Cataluña	Barcelona	2022	4	18	0	monday	2022-04-18	Autonomous community	Dilluns de Pasqua Florida
+España	Cataluña	Barcelona	2022	6	6	0	monday	2022-06-06	Autonomous community	Dilluns de Pasqua Granada
+España	Cataluña	Barcelona	2022	6	24	4	friday	2022-06-24	Autonomous community	Sant Joan
+España	Cataluña	Barcelona	2022	8	15	0	monday	2022-08-15	Spain	L'Assumpció
+España	Cataluña	Barcelona	2022	9	24	5	saturday	2022-09-24	City	Mare de Déu de la Mercè
+España	Cataluña	Barcelona	2022	9	26	0	monday	2022-09-26	City	?
+España	Cataluña	Barcelona	2022	10	12	2	wednesday	2022-10-12	Spain	Festa Nacional d'Espanya
+España	Cataluña	Barcelona	2022	11	1	1	tuesday	2022-11-01	Spain	Tot Sants
+España	Cataluña	Barcelona	2022	12	6	1	tuesday	2022-12-06	Spain	Dia de la Constitució
+España	Cataluña	Barcelona	2022	12	8	3	thursday	2022-12-08	Spain	La Immaculada
+España	Cataluña	Barcelona	2022	12	26	0	monday	2022-12-26	Autonomous community	Sant Esteve
+España	Cataluña	Barcelona	2021	1	1	4	friday	2021-01-01	Spain	Any Nou
+España	Cataluña	Barcelona	2021	1	6	2	wednesday	2021-01-06	Spain	Reis
+España	Cataluña	Barcelona	2021	4	2	4	friday	2021-04-02	Spain	Divendres Sant
+España	Cataluña	Barcelona	2021	4	5	0	monday	2021-04-05	Autonomous community	Dilluns de Pasqua Florida
+España	Cataluña	Barcelona	2021	5	1	5	saturday	2021-05-01	Spain	Festa del Treball
+España	Cataluña	Barcelona	2021	5	24	0	monday	2021-05-24	City	Dilluns de Pasqua Granada
+España	Cataluña	Barcelona	2021	6	24	3	thursday	2021-06-24	Autonomous community	Sant Joan
+España	Cataluña	Barcelona	2021	9	11	5	saturday	2021-09-11	Autonomous community	Diada Nacional de Catalunya
+España	Cataluña	Barcelona	2021	9	24	4	friday	2021-09-24	City	Mare de Déu de la Mercè
+España	Cataluña	Barcelona	2021	10	12	1	tuesday	2021-10-12	Spain	Festa Nacional d'Espanya
+España	Cataluña	Barcelona	2021	11	1	0	monday	2021-11-01	Spain	Dia de tots Sants
+España	Cataluña	Barcelona	2021	12	6	0	monday	2021-12-06	Spain	Dia de la Constitució
+España	Cataluña	Barcelona	2021	12	8	2	wednesday	2021-12-08	Spain	La Immaculada
+España	Cataluña	Barcelona	2021	12	25	5	saturday	2021-12-25	Spain	Nadal
+España	Cataluña	Barcelona	2024	1	1	0	monday	2024-01-01	Spain	Cap d'Any
+España	Cataluña	Barcelona	2024	1	6	5	saturday	2024-01-06	Spain	Reis
+España	Cataluña	Barcelona	2024	3	29	4	friday	2024-03-29	Spain	Divendres Sant
+España	Cataluña	Barcelona	2024	4	1	0	monday	2024-04-01	Autonomous community	Dilluns de Pasqua Florida
+España	Cataluña	Barcelona	2024	5	1	2	wednesday	2024-05-01	Spain	Festa del Treball
+España	Cataluña	Barcelona	2024	5	20	0	monday	2024-05-20	City	Dilluns de Pasqua Granada
+España	Cataluña	Barcelona	2024	6	24	0	monday	2024-06-24	Autonomous community	Sant Joan
+España	Cataluña	Barcelona	2024	8	15	3	thursday	2024-08-15	Spain	L'Assumpció
+España	Cataluña	Barcelona	2024	9	11	2	wednesday	2024-09-11	Autonomous community	Diada Nacional de Catalunya
+España	Cataluña	Barcelona	2024	9	24	1	tuesday	2024-09-24	City	Mare de Déu de la Mercè
+España	Cataluña	Barcelona	2024	10	12	5	saturday	2024-10-12	Spain	Festa Nacional d'Espanya
+España	Cataluña	Barcelona	2024	11	1	4	friday	2024-11-01	Spain	Tot Sants
+España	Cataluña	Barcelona	2024	12	6	4	friday	2024-12-06	Spain	Dia de la Constitució
+España	Cataluña	Barcelona	2024	12	25	2	wednesday	2024-12-25	Spain	Nadal
+España	Cataluña	Barcelona	2024	12	26	3	thursday	2024-12-26	Autonomous community	Sant Esteve
+España	Comunidad de Madrid	Madrid	2023	1	6	4	friday	2023-01-06	Spain	Epifanía del Señor
+España	Comunidad de Madrid	Madrid	2023	3	20	0	monday	2023-03-20	Spain	Translado de la festividad de San José
+España	Comunidad de Madrid	Madrid	2023	4	6	3	thursday	2023-04-06	Spain	Jueves Santo
+España	Comunidad de Madrid	Madrid	2023	4	7	4	friday	2023-04-07	Spain	Viernes Santo
+España	Comunidad de Madrid	Madrid	2023	5	1	0	monday	2023-05-01	Spain	Fiesta del Trabajo
+España	Comunidad de Madrid	Madrid	2023	5	2	1	tuesday	2023-05-02	Autonomous community	Fiesta de la Comunidad de Madrid
+España	Comunidad de Madrid	Madrid	2023	5	15	0	monday	2023-05-15	City	San Isidro Labrador
+España	Comunidad de Madrid	Madrid	2023	8	15	1	tuesday	2023-08-15	Spain	Asunción de la Virgen
+España	Comunidad de Madrid	Madrid	2023	10	12	3	thursday	2023-10-12	Spain	Fiesta Nacional de España
+España	Comunidad de Madrid	Madrid	2023	11	1	2	wednesday	2023-11-01	Spain	Todos los Santos
+España	Comunidad de Madrid	Madrid	2023	11	9	3	thursday	2023-11-09	City	Nuesta Señora de la Almudena
+España	Comunidad de Madrid	Madrid	2023	12	6	2	wednesday	2023-12-06	Spain	Día de la Constitución Española
+España	Comunidad de Madrid	Madrid	2023	12	8	4	friday	2023-12-08	Spain	Día de la Inmaculada Concepcion
+España	Comunidad de Madrid	Madrid	2023	12	25	0	monday	2023-12-25	Spain	Natividad del Señor
+España	Comunidad de Madrid	Madrid	2025	1	1	2	wednesday	2025-01-01	Spain	Año Nuevo
+España	Comunidad de Madrid	Madrid	2025	1	6	0	monday	2025-01-06	Spain	Epifanía del Señor
+España	Comunidad de Madrid	Madrid	2025	4	17	3	thursday	2025-04-17	Spain	Jueves Santo
+España	Comunidad de Madrid	Madrid	2025	4	18	4	friday	2025-04-18	Spain	Viernes Santo
+España	Comunidad de Madrid	Madrid	2025	5	1	3	thursday	2025-05-01	Spain	Fiesta del Trabajo
+España	Comunidad de Madrid	Madrid	2025	5	2	4	friday	2025-05-02	Autonomous community	Fiesta de la Comunidad de Madrid
+España	Comunidad de Madrid	Madrid	2025	5	15	3	thursday	2025-05-15	City	San Isidro Labrador
+España	Comunidad de Madrid	Madrid	2025	7	25	4	friday	2025-07-25	Autonomous community	Santiago Apóstol
+España	Comunidad de Madrid	Madrid	2025	8	15	4	friday	2025-08-15	Spain	Asunción de la Virgen
+España	Comunidad de Madrid	Madrid	2025	11	1	5	saturday	2025-11-01	Spain	Todos los Santos
+España	Comunidad de Madrid	Madrid	2025	11	10	0	monday	2025-11-10	City	Traslado de la festividad de Nuesta Señora de la Almudena
+España	Comunidad de Madrid	Madrid	2025	12	6	5	saturday	2025-12-06	Spain	Día de la Constitución Española
+España	Comunidad de Madrid	Madrid	2025	12	8	0	monday	2025-12-08	Spain	Día de la Inmaculada Concepción
+España	Comunidad de Madrid	Madrid	2025	12	25	3	thursday	2025-12-25	Spain	Natividad del Señor
+España	Comunidad de Madrid	Madrid	2020	1	1	2	wednesday	2020-01-01	Spain	Año Nuevo
+España	Comunidad de Madrid	Madrid	2020	1	6	0	monday	2020-01-06	Spain	Epifania del Señor
+España	Comunidad de Madrid	Madrid	2020	4	9	3	thursday	2020-04-09	Autonomous community	Jueves Santo
+España	Comunidad de Madrid	Madrid	2020	4	10	4	friday	2020-04-10	Spain	Viernes Santo
+España	Comunidad de Madrid	Madrid	2020	5	1	4	friday	2020-05-01	Spain	Fiesta del Trabajo
+España	Comunidad de Madrid	Madrid	2020	5	2	5	saturday	2020-05-02	Autonomous community	Fiesta de la Comunidad de Madrid
+España	Comunidad de Madrid	Madrid	2020	5	15	4	friday	2020-05-15	City	San Isidro Labrador
+España	Comunidad de Madrid	Madrid	2020	8	15	5	saturday	2020-08-15	Spain	Asuncion de la Virgen
+España	Comunidad de Madrid	Madrid	2020	10	12	0	monday	2020-10-12	Spain	Fiesta Nacional de España
+España	Comunidad de Madrid	Madrid	2020	11	2	0	monday	2020-11-02	Spain	Traslado del Día de Todos los Santos
+España	Comunidad de Madrid	Madrid	2020	11	9	0	monday	2020-11-09	City	Ntra. Sra. de la Almudena. Patrona de la ciudad
+España	Comunidad de Madrid	Madrid	2020	12	7	0	monday	2020-12-07	Spain	Traslado del Día de la Constitución
+España	Comunidad de Madrid	Madrid	2020	12	8	1	tuesday	2020-12-08	Spain	Inmaculada Concepción
+España	Comunidad de Madrid	Madrid	2020	12	25	4	friday	2020-12-25	Spain	Natividad del Señor
+España	Comunidad de Madrid	Madrid	2026	1	1	3	thursday	2026-01-01	Spain	Año Nuevo
+España	Comunidad de Madrid	Madrid	2026	1	6	1	tuesday	2026-01-06	Spain	Epifanía del Señor
+España	Comunidad de Madrid	Madrid	2026	4	2	3	thursday	2026-04-02	Autonomous community	Jueves Santo
+España	Comunidad de Madrid	Madrid	2026	4	3	4	friday	2026-04-03	Spain	Viernes Santo
+España	Comunidad de Madrid	Madrid	2026	5	1	4	friday	2026-05-01	Spain	Fiesta del Trabajo
+España	Comunidad de Madrid	Madrid	2026	5	2	5	saturday	2026-05-02	Autonomous community	Fiesta de la Comunidad de Madrid
+España	Comunidad de Madrid	Madrid	2026	5	15	4	friday	2026-05-15	City	San Isidro Labrador
+España	Comunidad de Madrid	Madrid	2026	8	15	5	saturday	2026-08-15	Spain	Asunción de la Virgen
+España	Comunidad de Madrid	Madrid	2026	10	12	0	monday	2026-10-12	Spain	Fiesta Nacional de España
+España	Comunidad de Madrid	Madrid	2026	11	2	0	monday	2026-11-02	Spain	Traslado de Todos los Santos
+España	Comunidad de Madrid	Madrid	2026	11	9	0	monday	2026-11-09	City	Festividad de Nuesta Señora de la Almudena
+España	Comunidad de Madrid	Madrid	2026	12	7	0	monday	2026-12-07	Spain	Traslado del Día de la Constitución Española
+España	Comunidad de Madrid	Madrid	2026	12	8	1	tuesday	2026-12-08	Spain	Día de la Inmaculada Concepción
+España	Comunidad de Madrid	Madrid	2026	12	25	4	friday	2026-12-25	Spain	Natividad del Señor
+España	Comunidad de Madrid	Madrid	2022	1	1	5	saturday	2022-01-01	Spain	Año Nuevo
+España	Comunidad de Madrid	Madrid	2022	1	6	3	thursday	2022-01-06	Spain	Epifanía del Señor
+España	Comunidad de Madrid	Madrid	2022	4	14	3	thursday	2022-04-14	Autonomous community	Jueves Santo
+España	Comunidad de Madrid	Madrid	2022	4	15	4	friday	2022-04-15	Spain	Viernes Santo
+España	Comunidad de Madrid	Madrid	2022	5	2	0	monday	2022-05-02	Autonomous community	Fiesta de la Comunidad de Madrid
+España	Comunidad de Madrid	Madrid	2022	5	16	0	monday	2022-05-16	City	Traslado de la festividad de San Isidro Labrador
+España	Comunidad de Madrid	Madrid	2022	7	25	0	monday	2022-07-25	Autonomous community	Santiago Apóstol
+España	Comunidad de Madrid	Madrid	2022	8	15	0	monday	2022-08-15	Spain	Asunción de la Virgen
+España	Comunidad de Madrid	Madrid	2022	10	12	2	wednesday	2022-10-12	Spain	Fiesta Nacional de España
+España	Comunidad de Madrid	Madrid	2022	11	1	1	tuesday	2022-11-01	Spain	Todos los Santos
+España	Comunidad de Madrid	Madrid	2022	11	9	2	wednesday	2022-11-09	City	Nuesta Señora de la Almudena
+España	Comunidad de Madrid	Madrid	2022	12	6	1	tuesday	2022-12-06	Spain	Día de la Constitución Española
+España	Comunidad de Madrid	Madrid	2022	12	8	3	thursday	2022-12-08	Spain	Inmaculada Concepcion
+España	Comunidad de Madrid	Madrid	2022	12	26	0	monday	2022-12-26	Spain	Traslado del descanso del 25 de diciembre, Natividad del Señor
+España	Comunidad de Madrid	Madrid	2021	1	1	4	friday	2021-01-01	Spain	Año Nuevo
+España	Comunidad de Madrid	Madrid	2021	1	6	2	wednesday	2021-01-06	Spain	Epifania del Señor
+España	Comunidad de Madrid	Madrid	2021	3	19	4	friday	2021-03-19	Spain	San José
+España	Comunidad de Madrid	Madrid	2021	4	1	3	thursday	2021-04-01	Autonomous community	Jueves Santo
+España	Comunidad de Madrid	Madrid	2021	4	2	4	friday	2021-04-02	Spain	Viernes Santo
+España	Comunidad de Madrid	Madrid	2021	5	1	5	saturday	2021-05-01	Spain	Fiesta del Trabajo
+España	Comunidad de Madrid	Madrid	2021	5	3	0	monday	2021-05-03	Autonomous community	Traslado Fiesta de la Comunidad de Madrid
+España	Comunidad de Madrid	Madrid	2021	5	15	5	saturday	2021-05-15	City	San Isidro Labrador
+España	Comunidad de Madrid	Madrid	2021	10	12	1	tuesday	2021-10-12	Spain	Fiesta Nacional de España
+España	Comunidad de Madrid	Madrid	2021	11	1	0	monday	2021-11-01	Spain	Día de Todos los Santos
+España	Comunidad de Madrid	Madrid	2021	11	9	1	tuesday	2021-11-09	City	Ntra. Sra. de la Almudena. Patrona de la ciudad
+España	Comunidad de Madrid	Madrid	2021	12	6	0	monday	2021-12-06	Spain	Día de la Constitución
+España	Comunidad de Madrid	Madrid	2021	12	8	2	wednesday	2021-12-08	Spain	Inmaculada Concepción
+España	Comunidad de Madrid	Madrid	2021	12	25	5	saturday	2021-12-25	Spain	Natividad del Señor
+España	Comunidad de Madrid	Madrid	2024	1	1	0	monday	2024-01-01	Spain	Año Nuevo
+España	Comunidad de Madrid	Madrid	2024	1	6	5	saturday	2024-01-06	Autonomous community	Epifanía del Señor
+España	Comunidad de Madrid	Madrid	2024	3	28	3	thursday	2024-03-28	Autonomous community	Jueves Santo
+España	Comunidad de Madrid	Madrid	2024	3	29	4	friday	2024-03-29	Spain	Viernes Santo
+España	Comunidad de Madrid	Madrid	2024	5	1	2	wednesday	2024-05-01	Spain	Fiesta del Trabajo
+España	Comunidad de Madrid	Madrid	2024	5	2	3	thursday	2024-05-02	Autonomous community	Fiesta de la Comunidad de Madrid
+España	Comunidad de Madrid	Madrid	2024	5	15	2	wednesday	2024-05-15	City	San Isidro Labrador
+España	Comunidad de Madrid	Madrid	2024	7	25	3	thursday	2024-07-25	Autonomous community	Santiago Apóstol
+España	Comunidad de Madrid	Madrid	2024	8	15	3	thursday	2024-08-15	Spain	Asunción de la Virgen
+España	Comunidad de Madrid	Madrid	2024	10	12	5	saturday	2024-10-12	Spain	Fiesta Nacional de España
+España	Comunidad de Madrid	Madrid	2024	11	1	4	friday	2024-11-01	Spain	Todos los Santos
+España	Comunidad de Madrid	Madrid	2024	11	9	5	saturday	2024-11-09	City	Nuesta Señora de la Almudena
+España	Comunidad de Madrid	Madrid	2024	12	6	4	friday	2024-12-06	Spain	Día de la Constitución Española
+España	Comunidad de Madrid	Madrid	2024	12	25	2	wednesday	2024-12-25	Spain	Natividad del Señor
+España	Andalucía	Sevilla	2022	1	1	5	saturday	2022-01-01	Spain	Año nuevo
+España	Andalucía	Sevilla	2022	1	6	3	thursday	2022-01-06	Spain	Epifanía del Señor
+España	Andalucía	Sevilla	2022	2	28	0	monday	2022-02-28	Autonomous community	Día de Andalucía
+España	Andalucía	Sevilla	2022	4	14	3	thursday	2022-04-14	Autonomous community	Jueves Santo
+España	Andalucía	Sevilla	2022	4	15	4	friday	2022-04-15	Spain	Viernes Santo
+España	Andalucía	Sevilla	2022	5	2	0	monday	2022-05-02	Autonomous community	Fiesta del Trabajo, coincide en Domingo y se traslada al lunes
+España	Andalucía	Sevilla	2022	5	4	2	wednesday	2022-05-04	City	Feria
+España	Andalucía	Sevilla	2022	6	16	3	thursday	2022-06-16	City	Corpus Christi
+España	Andalucía	Sevilla	2022	8	15	0	monday	2022-08-15	Spain	Ascensión de la Virgen
+España	Andalucía	Sevilla	2022	10	12	2	wednesday	2022-10-12	Spain	Fiesta Nacional de España
+España	Andalucía	Sevilla	2022	11	1	1	tuesday	2022-11-01	Spain	Día de Todos los Santos
+España	Andalucía	Sevilla	2022	12	6	1	tuesday	2022-12-06	Spain	Día de la Constitución española
+España	Andalucía	Sevilla	2022	12	8	3	thursday	2022-12-08	Spain	La Inmaculada Concepción
+España	Andalucía	Sevilla	2022	12	26	0	monday	2022-12-26	Autonomous community	Natividad del Señor, coincide en Domingo y se traslada al lunes
+España	Andalucía	Sevilla	2024	1	1	0	monday	2024-01-01	Spain	Año nuevo
+España	Andalucía	Sevilla	2024	1	6	5	saturday	2024-01-06	Spain	Epifanía del Señor
+España	Andalucía	Sevilla	2024	2	28	2	wednesday	2024-02-28	Autonomous community	Día de Andalucía
+España	Andalucía	Sevilla	2024	3	28	3	thursday	2024-03-28	Autonomous community	Jueves Santo
+España	Andalucía	Sevilla	2024	3	29	4	friday	2024-03-29	Spain	Viernes Santo
+España	Andalucía	Sevilla	2024	4	17	2	wednesday	2024-04-17	City	Feria
+España	Andalucía	Sevilla	2024	5	1	2	wednesday	2024-05-01	Autonomous community	Fiesta del Trabajo
+España	Andalucía	Sevilla	2024	5	30	3	thursday	2024-05-30	City	Corpus Christi
+España	Andalucía	Sevilla	2024	8	15	3	thursday	2024-08-15	Spain	Ascensión de la Virgen
+España	Andalucía	Sevilla	2024	10	12	5	saturday	2024-10-12	Spain	Fiesta Nacional de España
+España	Andalucía	Sevilla	2024	11	1	4	friday	2024-11-01	Spain	Día de Todos los Santos
+España	Andalucía	Sevilla	2024	12	6	4	friday	2024-12-06	Spain	Día de la Constitución española
+España	Andalucía	Sevilla	2024	12	9	0	monday	2024-12-09	Spain	La Inmaculada Concepción
+España	Andalucía	Sevilla	2024	12	25	2	wednesday	2024-12-25	Autonomous community	Natividad del Señor, coincide en Domingo y se traslada al lunes
