@@ -159,14 +159,14 @@ develop = ["build", "twine"]
 
 [[package]]
 name = "ics"
-version = "0.7.2"
+version = "0.7.3"
 description = "Python icalendar (rfc5545) parser"
 optional = false
 python-versions = "*"
 groups = ["main"]
 files = [
-    {file = "ics-0.7.2-py2.py3-none-any.whl", hash = "sha256:5fcf4d29ec6e7dfcb84120abd617bbba632eb77b097722b7df70e48dbcf26103"},
-    {file = "ics-0.7.2.tar.gz", hash = "sha256:6743539bca10391635249b87d74fcd1094af20b82098bebf7c7521df91209f05"},
+    {file = "ics-0.7.3-py2.py3-none-any.whl", hash = "sha256:519f633f2e3d7b1528847e990a58dcb8807a2fffdcfd9dd880d1d5094d456af7"},
+    {file = "ics-0.7.3.tar.gz", hash = "sha256:2dcd6876e8c913d40db76f1f1ca47bccd1c162178c73f69fbbedca1b844eface"},
 ]
 
 [package.dependencies]
@@ -174,7 +174,7 @@ arrow = ">=0.11"
 attrs = ">=19.1.0"
 python-dateutil = "*"
 six = ">1.5"
-tatsu = ">4.2"
+tatsu = ">4.2,<5.16.0"
 
 [[package]]
 name = "mccabe"
