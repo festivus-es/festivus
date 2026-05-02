@@ -1,7 +1,6 @@
 import datetime
 import pathlib
 
-
 WEEKDAYS = (
     "monday",
     "tuesday",

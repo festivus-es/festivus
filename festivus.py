@@ -35,8 +35,7 @@ def generate_calendars():
             f.write(calendar.as_ical().serialize())
 
     with open(base / "index.html", "w") as f:
-        f.write(
-            """
+        f.write("""
         <html>
         <head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,8 +43,7 @@ def generate_calendars():
         <body>
         <p>Visit <a href="https://github.com/festivus-es/festivus">github.com/festivus-es/festivus</a> to contribute data and learn more about this project.</p>
         <ul>
-        """
-        )
+        """)
         prev_last_year = None
         for calendar in sorted(
             calendars, key=lambda c: (-c.years()[-1], c.location[::-1])
