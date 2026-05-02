@@ -10,12 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/setup-python@v1
-      with:
-        python-version: 3.9
     - name: Install dependencies
       run: |
-        python -m pip install poetry
+        python3 -m pip install poetry
         poetry install
     - name: Check style
       run: |
