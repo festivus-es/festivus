@@ -7,4 +7,4 @@ See <https://festivus-es.github.io/festivus/> for iCal URLs for some cities.
 
 You can submit new cities as pull requests.
 
-Alternatively, <https://www.seg-social.es/wps/portal/wss/internet/CalendarioLaboral/> seems to be the most complete official source, besides city hall websites.
+Alternatively, <https://www.seg-social.es/wps/portal/wss/internet/CalendarioLaboral> seems to be the most complete official source, besides city hall websites.
