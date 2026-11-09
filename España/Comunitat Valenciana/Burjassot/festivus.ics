@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211208
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Inmaculada Concepción (Estatal)
+UID:13ef3150-c220-40e5-a27d-4e4c91843a63@13ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220624
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:San Juan
+UID:0535bb3d-c8a2-4b90-a636-6aa5ffb6e00a@0535.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221208
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Inmaculada Concepción (Estatal)
+UID:c867a0ea-11a9-44a8-b0af-4ed6ac924763@c867.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221101
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Día de Todos los Santos (Estatal)
+UID:fd8166ca-98fe-46fa-ad61-70941fa756f8@fd81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211225
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Natividad del Señor (Estatal)
+UID:a08102c5-af5b-4b77-b17f-7db99ec9957d@a081.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220415
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Viernes Santo (Estatal)
+UID:57a3cb35-172b-4ade-b72a-2c0fc5f5c073@57a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210319
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:San José (Autonómica)
+UID:7037e96a-86ad-466f-bd87-5d3e0837aa76@7037.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210101
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Año Nuevo (Estatal)
+UID:6062baa3-9d47-4c3a-a8db-657f2368d43b@6062.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211206
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Día de la Constitución (Estatal)
+UID:f743cdf6-37c7-4278-ac06-21becda012a9@f743.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220106
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Epifania del Señor (Estatal)
+UID:5e9b2bfc-a56e-4753-b795-08f6d4cac1c2@5e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210930
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Virgen de la Cabeza (Local)
+UID:2ae859b5-17b3-4a88-a55f-8b7ef5e10e40@2ae8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210402
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Viernes Santo (Estatal)
+UID:7f4c6f51-ab03-49e3-b229-cef4cb31ebe3@7f4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220418
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Lunes de Pascua (Estatal)
+UID:d232c5e8-4ce1-4374-a204-88e9057a4a71@d232.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211012
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Fiesta Nacional de España (Estatal)
+UID:a0c33029-02cb-4776-bba8-e738b48cfde5@a0c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221012
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Fiesta Nacional de España (Estatal)
+UID:7f8c90a9-d6b1-4071-8652-74b0e3a5e6c9@7f8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221206
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Día de la Constitución (Estatal)
+UID:29abf6bb-3e38-4a24-87e6-1d2d4d6cb00e@29ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220101
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Año Nuevo (Estatal)
+UID:f5762797-bfe3-4d68-807f-4c8302da5221@f576.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211101
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Día de Todos los Santos (Estatal)
+UID:ff20011e-048e-4581-8af2-8a03a0b72347@ff20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220414
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Jueves Santo (Estatal)
+UID:9c951174-f443-4735-bfa5-3eedfe6e8786@9c95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210501
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Fiesta del Trabajo (Estatal)
+UID:26ca120d-15ed-4211-b9bf-433ba29a5ca1@26ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220930
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:La Virgen de la Cabeza
+UID:423815ea-d9dc-41d8-b4d9-0da5cb990429@4238.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220815
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:Asunción de la Virgen
+UID:67617e22-55ca-4368-afa0-864a8acf6fba@6761.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210816
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:San Roque (Local)
+UID:1441ecde-58a7-4408-8b3c-384bbffccf24@1441.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220816
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:San Roque
+UID:0724276a-8dc6-4cf3-9e85-df981cd7245f@0724.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220319
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2022
+SUMMARY:San José (Autonómica)
+UID:21fbc8fc-8d89-4a5c-8624-a90552feaaf9@21fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210405
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Lunes de Pascua (Estatal)
+UID:21e943df-7f38-4f68-adf8-0b972318e005@21e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211009
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Dia de la Comunitat Valenciana (Autonómica)
+UID:140f472a-5142-4e6d-980e-ab9aa0e716e6@140f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210106
+DESCRIPTION:# https://www.calendario-laboral.com/calendario-laboral-burjassot-2021
+SUMMARY:Epifania del Señor (Estatal)
+UID:6ae2df29-1ad2-46cc-8c9d-ac930f360177@6ae2.org
+END:VEVENT
+END:VCALENDAR

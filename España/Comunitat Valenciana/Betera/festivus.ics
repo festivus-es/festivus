@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240106
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Epifania del Señor (Estatal)
+UID:cdd309ee-d4b2-4b69-a06b-985b6bf812bd@cdd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240319
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:San José (Autonómica)
+UID:056c1dc7-575e-4fee-9e52-21a7298351bf@056c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240815
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Asunción de la Virgen (Estatal)
+UID:292f2a3e-7346-48b5-a017-2476c11783ab@292f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241012
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Fiesta Nacional de España (Estatal)
+UID:b6217145-29a0-4eea-ab62-1f1581bb2805@b621.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240101
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Año Nuevo (Estatal)
+UID:c950f37c-1bf0-423a-a827-da2d98d334fe@c950.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240408
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:San Vicente Ferrer (Local)
+UID:1998ed58-85ed-4b10-8558-3622047ee063@1998.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241206
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Día de la Constitución (Estatal)
+UID:04fa1f8a-27bc-4ed0-9035-c64c17575077@04fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240401
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Lunes de Pascua (Autonómica)
+UID:f7295e13-91ac-43a9-8138-10ce076eae2b@f729.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241009
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Día de la Comunitat Valenciana (Autonómica)
+UID:c5efa96a-720f-4b2a-8b37-2f4aa422a0f5@c5ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241225
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Navidad del Señor (Estatal)
+UID:6b8e20d5-d645-4c17-8cac-5e000fe00494@6b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240816
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:San Roque (Local)
+UID:64b1dd3e-7774-4eaa-a9e5-f14f560fa64b@64b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240329
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Viernes Santo (Estatal)
+UID:bcbf7854-efa8-4103-b994-153873501d7e@bcbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240624
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:San Juan (Autonómica)
+UID:07df8828-fd95-488a-a422-708808180bd3@07df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240501
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Fiesta del Trabajo (Estatal)
+UID:c04fa17b-755c-4017-b3d6-ea4814710a87@c04f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241101
+DESCRIPTION:# https://www.info-ciudad.com/valencia/betera/calendario-laboral-2024
+SUMMARY:Día de Todos los Santos (Estatal)
+UID:85358d82-d24e-4a80-9c65-0d54b67fd979@8535.org
+END:VEVENT
+END:VCALENDAR
